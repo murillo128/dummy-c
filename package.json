@@ -1,0 +1,19 @@
+{
+  "name": "dummy-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/murillo128/dummy-c.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murillo128/dummy-c/issues"
+  },
+  "homepage": "https://github.com/murillo128/dummy-c"
+}
